@@ -32,3 +32,6 @@ Login Details for admin :
 ```Password: Test@12345```
 
 Some of the glimpses.
+
+<img width="1920" alt="Car Rental Mobile App (Community)" src="https://github.com/ShouvikGhosh2/Car-Rental-System/assets/130725715/1ad803f7-db88-4a5d-8a18-8aa5f0aec896">
+
