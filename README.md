@@ -30,3 +30,5 @@ Login Details for admin :
 
 ```Username: admin```
 ```Password: Test@12345```
+
+Some of the glimpses.
