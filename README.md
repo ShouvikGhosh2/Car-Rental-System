@@ -34,5 +34,4 @@ Login Details for admin :
 Some of the glimpses.
 
 <img width="1920" alt="Car Rental Mobile App (Community)" src="https://github.com/ShouvikGhosh2/Car-Rental-System/assets/130725715/1ad803f7-db88-4a5d-8a18-8aa5f0aec896">
-![X - 3](https://github.com/ShouvikGhosh2/Car-Rental-System/assets/130725715/2326b362-7748-4e38-8368-a170b382ccc6)
 
